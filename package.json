@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon is an Amazon-like storefront which utilizes MySQL, JavaScript and node.js",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoInZane/bamazon.git"
+  },
+  "author": "Cameron Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoInZane/bamazon/issues"
+  },
+  "homepage": "https://github.com/SoInZane/bamazon#readme"
+}
