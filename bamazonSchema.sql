@@ -26,3 +26,10 @@ VALUES ("playstation 4", "electronics", 299.99, 20),
 ("glad tall kitchen trash bags 13 gal 80 ct", "household", 10.39, 23);
 
 SELECT * FROM products;
+
+CREATE TABLE departments(
+    department_id MEDIUMINT AUTO_INCREMENT NOT NULL,
+    department_name VARCHAR(50) NOT NULL,
+    over_head_cost DECIMAL(10,2) NOT NULL,
+    total_sales DECIMAL(10,2) NOT NULL,
+    PRIMARY KEY(department_id));
