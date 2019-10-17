@@ -15,7 +15,7 @@ This command will launch into the bamazonCustomer.js file and present the user w
 
 They will then be asked how many of the item would they like to purchase and if that amount is in stock the order will be placed and they will receive confirmation.
 
-![Success Image](./successful_purchase.PNG)
+![Success Image](./screen_shots/successful_purchase.PNG)
 
 If the amount of the item they chose is not in stock, they will receive a message that "There's not enough in stock" and then be prompted to see if they would like to purchase another item.
 
